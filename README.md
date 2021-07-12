@@ -7,6 +7,15 @@
 
 ## Models:
 
+| Model           | Task                 | Type            | Tokenizer | Dict size | Num Parameters  | Training Data Volume |
+|-----------------|----------------------|-----------------|-----------|-----------|-----------------|----------------------|
+| ruBERT-base     | mask filling         | encoder         | bpe       | 120 138   | 178 M         | 30 GB                |
+| ruBERT-large    | mask filling         | encoder         | bpe       | 120 138   | 427 M         | 30 GB                |
+| ruRoBERTa-large | mask filling         | encoder         | bbpe      | 50 257    | 355 M         | 250 GB               |
+| ruT5-base       | text2text generation | encoder-decoder | bpe       | 32101     | 222 M         | 300 GB               |
+| ruT5-large      | text2text generation | encoder-decoder | bpe       | 32101     | 737 M         | 300 GB               |
+
+
 ### ruT5
 Text2Text Generation task
 [T5 paper](https://arxiv.org/abs/1910.10683)
