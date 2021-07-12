@@ -20,4 +20,4 @@
   
   
   
-  ![ Alt text](https://github.com/sberbank-ai/model-zoo/examples/roberta_small.gif) / ! [](https://github.com/sberbank-ai/model-zoo/examples/roberta_small.gif)
+  ![](/examples/roberta_small.gif) / ! [](https://github.com/sberbank-ai/model-zoo/examples/roberta_small.gif)
