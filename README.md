@@ -32,7 +32,7 @@ fill-mask task
   
 ###  ruBert
 fill-mask task
-[T5 paper](https://arxiv.org/abs/1810.04805)
+[Bert paper](https://arxiv.org/abs/1810.04805)
  - Large: [HF Model](https://huggingface.co/sberbank-ai/ruBert-large)
  - Base: [HF Model](https://huggingface.co/sberbank-ai/ruBert-base)
   
